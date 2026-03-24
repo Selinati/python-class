@@ -4,6 +4,6 @@
 ## hello
 
 
-## now i correctred it 
+## now i correctred it
 
 # newd
